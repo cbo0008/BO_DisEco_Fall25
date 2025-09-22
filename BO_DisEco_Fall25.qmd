@@ -30,3 +30,28 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 **Inserting an image in Quarto document:**
 
 ![](images/clipboard-2480284590.png)
+
+------------------------------------------------------------------------
+
+## [**9/22/25**]{.underline}
+
+![](ss_table.png)
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
+herd of 5000 deer. The desired level of confidence is 95%.
+
+Answer: **We would need to sample 59 deer** **to be able to accurately detect this disease with 95% confidence.**
+
+2\) Using the hypergeometric distribution, compare the sample size requirements for the\
+following scenarios:\
+a) 95% confidence in detecting a disease at 1% prevalence in a large population\
+b) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+Answer: **In group A, we would need to test approximately 300 individuals, while in group B, we would need to approximately 225 individuals.**
+
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
+300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this\
+finding, you are 95% confident that the prevalence of exposure to EHD in this facility is\
+\_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+
+Answer: **The prevalence of exposure in this facility is \< 1%.**
