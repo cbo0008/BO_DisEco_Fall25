@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## [08/26/2025]{.underline}
+# [08/26/2025]{.underline}
 
 *Quarto is a powerful tool for creating dynamic documents that combine text, code, and data visualizations. For your assignments and worksheets, using Quarto will allow you to seamlessly integrate your analysis with your written explanations/comments, making your reports more cohesive and professional.*
 
@@ -33,7 +33,7 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 ------------------------------------------------------------------------
 
-## [**9/22/25**]{.underline}
+# [**9/22/25**]{.underline}
 
 ![](ss_table.png)
 
@@ -55,3 +55,117 @@ finding, you are 95% confident that the prevalence of exposure to EHD in this fa
 \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
 
 Answer: **The prevalence of exposure in this facility is \< 1%.**
+
+------------------------------------------------------------------------
+
+# [**10/7/25**]{.underline}
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
+data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
+meticulously documented the progress of the outbreak in this herd. Her observations of\
+affected elk are as follows:
+
+\
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+| Elk ID | 6/10/25 | 6/11/25 | 6/12/25 | 6/13/25 | 6/14/25 | 6/15/25 | 6/16/25 |
+|--------|---------|---------|---------|---------|---------|---------|---------|
+| 2320B  | NAD     | NAD     | RE/OD   | OD      | OD      | OD      | OD      |
+| 2355B  | NAD     | RE      | RE/OD   | RE/OD   | NAD     | NAD     | NAD     |
+| 2565B  | NAD     | RE      | RE      | OD      | OD      | NAD     | NAD     |
+| 2763B  | NAD     | NAD     | RE      | OD      | OD      | NAD     | NAD     |
+| 2772B  | NAD     | NAD     | RE      | RE      | RE/OD   | NAD     | NAD     |
+| 1889B  | RE      | RE/OD   | RE/OD   | OD      | NAD     | NAD     | NAD     |
+| 1766B  | NAD     | NAD     | NAD     | NAD     | RE/OD   | OD      | OD      |
+| 1322B  | NAD     | NAD     | NAD     | RE/OD   | RE/OD   | OD      | OD      |
+| 4533B  | NAD     | NAD     | NAD     | RE/OD   | OD      | OD      | OD      |
+| 4597B  | NAD     | NAD     | RE      | RE/OD   | RE/OD   | OD      | NAD     |
+| 4599B  | NAD     | NAD     | NAD     | NAD     | RE/OD   | RE/OD   | OD      |
+| 5666B  | NAD     | OD      | OD      | OD      | NAD     | NAD     | NAD     |
+| 5971B  | NAD     | RE      | RE/OD   | OD      | OD      | OD      | NAD     |
+| 6001B  | NAD     | NAD     | RE      | RE/OD   | OD      | OD      | NAD     |
+
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were\
+no infected elk in the herd after 06/16/25.
+
+### A) Answer: 0.555, 1, and 0 cases/elk-day, respectively
+
+#### Work:
+
+##### 6/12/25: 
+
+Total susceptible population: 9
+
+New Cases: 5
+
+Incidence = New cases/total susceptible population
+
+Incidence = 0.555 cases/elk-day
+
+##### 6/14/25: 
+
+Total susceptible population: 2
+
+New Cases: 2
+
+Incidence = New cases/total susceptible population
+
+Incidence = 1 case/elk-day
+
+##### 6/15/25: 
+
+Total susceptible population: 0
+
+New Cases: 0
+
+Incidence = New cases/total susceptible population
+
+Incidence = 0 cases/elk-day
+
+### B) Answer: 85.7% and 35.7%, respectively
+
+#### Work:
+
+##### 06/13/25
+
+Total Population: 14
+
+\# of cases: 12
+
+Prevalence = \# of cases/Total Population
+
+Prevalence = 85.7% of the population
+
+##### 06/16/25
+
+Total Population: 14
+
+\# of cases: 5
+
+Prevalence = \# of cases/Total Population
+
+Prevalence = 35.7% of the population
+
+### C) Answer: They are both 0.0714 on Day 1 (6/10/25)
+
+#### Work:
+
+Total susceptible population: 14
+
+New Cases: 1
+
+Incidence = New cases/total susceptible population
+
+Incidence = 0.0714 case/elk-day
+
+Total Population: 14
+
+\# of cases: 1
+
+Prevalence = \# of cases/Total Population
+
+Prevalence = 7.14% of the population
+
+### D) Answer: 6/16/25
+
+#### Work: See above (A)
