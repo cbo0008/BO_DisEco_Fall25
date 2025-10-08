@@ -92,7 +92,7 @@ no infected elk in the herd after 06/16/25.
 
 #### Work:
 
-##### 6/12/25: 
+##### 6/12/25:
 
 Total susceptible population: 9
 
@@ -102,7 +102,7 @@ Incidence = New cases/total susceptible population
 
 Incidence = 0.555 cases/elk-day
 
-##### 6/14/25: 
+##### 6/14/25:
 
 Total susceptible population: 2
 
@@ -112,7 +112,7 @@ Incidence = New cases/total susceptible population
 
 Incidence = 1 case/elk-day
 
-##### 6/15/25: 
+##### 6/15/25:
 
 Total susceptible population: 0
 
@@ -169,3 +169,11 @@ Prevalence = 7.14% of the population
 ### D) Answer: 6/16/25
 
 #### Work: See above (A)
+
+------------------------------------------------------------------------
+
+# 10/8/25
+
+## Lab Activity Report
+
+Tick identification is a unique and complex set of parameters that allow researchers to accurately identify potential vectors for a variety of zoonotic diseases. One of the primary methods used to determine a tick's species is the SAM method, which stands for Scutum, Anal Groove, and Mouthparts. The scutum refers to the plate on the back of a tick; in females, they will display a scutum anterior and an alloscutum posterior. For the Anal Groove, we are looking to determine whether it is anterior or posterior. Finally, the mouthparts is referring to the length of the protrusions from the mouth. This part is particularly subjective because these occur in a variety of sizes, and different people may have different definitions of what makes something long vs. short. Additionally, another determining factor is the number of legs that the tick has; nymphs and adult ticks have 8 legs, while larvae only 6 legs. These particular determinants allow both researchers and public health workers to accurately and rapidly identify what ticks are affecting a certain area or population. This is especially important as ticks are a vector for a variety of diseases, such as Lyme Disease and Rocky Mountain Spotted Fever. So, the identification of these ticks is paramount in seeing what possible diseases a population is susceptible and preparing for possible outbreaks of said diseases.
