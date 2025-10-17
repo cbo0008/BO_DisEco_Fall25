@@ -177,3 +177,29 @@ Prevalence = 7.14% of the population
 ## Lab Activity Report
 
 Tick identification is a unique and complex set of parameters that allow researchers to accurately identify potential vectors for a variety of zoonotic diseases. One of the primary methods used to determine a tick's species is the SAM method, which stands for Scutum, Anal Groove, and Mouthparts. The scutum refers to the plate on the back of a tick; in females, they will display a scutum anterior and an alloscutum posterior. For the Anal Groove, we are looking to determine whether it is anterior or posterior. Finally, the mouthparts is referring to the length of the protrusions from the mouth. This part is particularly subjective because these occur in a variety of sizes, and different people may have different definitions of what makes something long vs. short. Additionally, another determining factor is the number of legs that the tick has; nymphs and adult ticks have 8 legs, while larvae only 6 legs. These particular determinants allow both researchers and public health workers to accurately and rapidly identify what ticks are affecting a certain area or population. This is especially important as ticks are a vector for a variety of diseases, such as Lyme Disease and Rocky Mountain Spotted Fever. So, the identification of these ticks is paramount in seeing what possible diseases a population is susceptible and preparing for possible outbreaks of said diseases.
+
+------------------------------------------------------------------------
+
+# 10/17/25
+
+## Exam Corrections
+
+### Question 1 (9/18 points)
+
+1b. Using disease models, we can make accurate predictions of how a disease will spread in a real-world host population
+
+Answer: False; we cannot make accurate predictions of how a disease will spread in a real-world host population because real-world populations violate many of the rules set by disease models (e.g., populations are open and will have births and natural deaths that will affect the susceptible proportion of a population, etc.)
+
+1c. Chagas' disease is a protozoal disease that is commonly transmitted by the triatomine bug (Kissing bug). It can also be transmitted by the consumption of contaminated food or beverages (infected with the feces of triatomine bugs). Chagas' disease is therefore a contagious disease.
+
+Answer: False; While Chagas' disease is infectious, it is not contagious. Infection must happen by way of a vector and human-to-human contact has not been reported, making it a non-contagious disease.
+
+1f. The deer mice (Peromyscus maniculatus) infected with Sin Nombre Virus do not show any clinical signs, but excrete the virus in their urine, feces and saliva. Humans get infected via aerosolized droppings of an infected rodent. The illness caused by Sin Nombre virus in humans is called Hantavirus Pulmonary Syndrome (HPS). HPS is therefore a vector-transmitted disease.
+
+Answer: False; HPS is not vector-transmitted because the mice are considered to be reservoir hosts. Reservoir hosts are responsible for maintaining a pathogen's prevalence in the environment with some spillover into other hosts, while vectors will predominantly act as a way to transmit the pathogen between hosts.
+
+### Question 7 (12/20 points)
+
+7\. In 2015, a mass die-off of Saiga antelop occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelope from extinction due to disease outbreaks.
+
+Answer: In 2015, a mass-die off was caused in Saiga antelope by a bacteria that naturally inhabits the respiratory tract: *Pasteurella multocida*. This bacteria normally causes no pathology in the antelope and has largely been considered a commensal organism that lives in synchrony with the Saiga. However, unusually high levels of humidity and temperature created a physiological response in the antelope, allowing bacteria to multiply rapidly and enter circulation and resulting in septicemia. Unfortunately, this happened in conjunction with the predetermined breeding/calving season for the antelope and allowed the pathogen to spread rapidly in the large herds gathered for breeding, resulting in a large proportion of the population dying from septic pasteurellosis. To prevent mass die-off events like this in the future, researchers need to more adequately monitor the environmental conditions that could trigger another die-off, implement further disease surveillance for these herds, and have access to rapid-response teams that can quickly quarantine and treat infected animals before another outbreak can begin. In terms of a broader fix to the problem, we need to engage in more extensive conservation efforts to maintain and protect the Saiga's natural habitat from rapid fluctuations in climate.
