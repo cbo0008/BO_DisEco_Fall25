@@ -198,8 +198,43 @@ Answer: False; While Chagas' disease is infectious, it is not contagious. Infect
 
 Answer: False; HPS is not vector-transmitted because the mice are considered to be reservoir hosts. Reservoir hosts are responsible for maintaining a pathogen's prevalence in the environment with some spillover into other hosts, while vectors will predominantly act as a way to transmit the pathogen between hosts.
 
+------------------------------------------------------------------------
+
 ### Question 7 (12/20 points)
 
 7\. In 2015, a mass die-off of Saiga antelop occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelope from extinction due to disease outbreaks.
 
 Answer: In 2015, a mass-die off was caused in Saiga antelope by a bacteria that naturally inhabits the respiratory tract: *Pasteurella multocida*. This bacteria normally causes no pathology in the antelope and has largely been considered a commensal organism that lives in synchrony with the Saiga. However, unusually high levels of humidity and temperature created a physiological response in the antelope, allowing bacteria to multiply rapidly and enter circulation and resulting in septicemia. Unfortunately, this happened in conjunction with the predetermined breeding/calving season for the antelope and allowed the pathogen to spread rapidly in the large herds gathered for breeding, resulting in a large proportion of the population dying from septic pasteurellosis. To prevent mass die-off events like this in the future, researchers need to more adequately monitor the environmental conditions that could trigger another die-off, implement further disease surveillance for these herds, and have access to rapid-response teams that can quickly quarantine and treat infected animals before another outbreak can begin. In terms of a broader fix to the problem, we need to engage in more extensive conservation efforts to maintain and protect the Saiga's natural habitat from rapid fluctuations in climate.
+
+------------------------------------------------------------------------
+
+# 10/23/25
+
+**MERS-CoV\
+**Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)![](images/MERS-CoV img.png){width="897"}
+
+Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+    A.  **Incorrect; The pathogen MERS-CoV is primarily maintained in camel populations. Humans are a spillover event, but long term human-to-human transmission cannot be sustained.**
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+    A.  **Correct**
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+    A.  **Incorrect; MERS-CoV can be spread from human-to-human, but not widespread enough for a potential epidemic.**
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+
+    A.  **Incorrect; MERS-CoV has an estimated case fatality rate of approximately 35%.**
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    A.  **Correct; however, from the curve it appears to be multiple point-source outbreaks with little to no sustained transmission following the initial outbreak.**
+
+------------------------------------------------------------------------
