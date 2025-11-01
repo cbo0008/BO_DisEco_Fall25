@@ -213,7 +213,7 @@ Answer: In 2015, a mass-die off was caused in Saiga antelope by a bacteria that 
 **MERS-CoV\
 **Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
 
-Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)![](images/MERS-CoV img.png){width="897"}
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)![](images/MERS-CoV%20img.png){width="897"}
 
 Which of the following statements about MERS-CoV are correct? (If it is incorrect, provide an explanation why the statement is incorrect.)
 
@@ -238,3 +238,24 @@ Which of the following statements about MERS-CoV are correct? (If it is incorrec
     A.  **Correct; however, from the curve it appears to be multiple point-source outbreaks with little to no sustained transmission following the initial outbreak.**
 
 ------------------------------------------------------------------------
+
+# 11/3/25
+
+**Marburg Virus Outbreak, Rwanda 2024**\
+The first person to become infected in the current Marburg virus outbreak in Rwanda\
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit\
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
+Marburg virus infection were documented, and most of the people infected were health\
+care workers, mainly those who worked in intensive care units.
+
+\
+1. Using the community epidemiology framework developed by Fenton and Pedersen,\
+would you classify this Marburg virus outbreak as a spillover event or an emerging\
+infectious disease? Justify your classification. 5 points
+
+**Answer: As there are cases of human to human transmission, I would classify this as a emerging infectious disease. This refers to a scenario where the pathogen can persist in the secondary host, but transmission is low due to little to no interaction with the reservoir host. Another example for this would be something like the acute coronavirus syndromes that can be passed from wild civets in China to humans where it will spread human to human; however, due to low contact rates between humans and wild civets, the prevalence of animal to human transmission is low, keeping the disease from rapidly spreading in the new host.**
+
+2\. What measures could be implemented to reduce the risk of transmission in both\
+community and healthcare settings? 5 points
+
+**Answer: In community, avoidance of areas typically claimed by bats that are known to harbor Marburg virus should be avoided. In a healthcare setting, stringent contact precautions should be in place to protect healthcare workers from potential contact with infected bodily fluids, such as saliva or blood.**
