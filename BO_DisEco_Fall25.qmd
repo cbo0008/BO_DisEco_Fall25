@@ -259,3 +259,25 @@ infectious disease? Justify your classification. 5 points
 community and healthcare settings? 5 points
 
 **Answer: In community, avoidance of areas typically claimed by bats that are known to harbor Marburg virus should be avoided. In a healthcare setting, stringent contact precautions should be in place to protect healthcare workers from potential contact with infected bodily fluids, such as saliva or blood.**
+
+------------------------------------------------------------------------
+
+# 11/10/2025
+
+## Pond 1
+
+-   Prevalence: 30%
+
+-   Confidence Interval (95%): 14% - 53%
+
+## Pond 2
+
+-   Prevalence: 7%
+
+-   Confidence Interval (95%): 0.3% - 30%
+
+## p-Value and Significance
+
+-   *p* = 0.1987
+
+-   This p-value indicates that the comparison of these prevalence values is not statistically significant and are likely due to random chance.
