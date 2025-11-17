@@ -288,27 +288,18 @@ community and healthcare settings? 5 points
 
 ## Nipah Virus
 
-Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
-in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
-between these two regions and explain how these differences influence the preventive\
-measures recommended in each setting. **(8 points)**
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.**(8 points)**
 
 **Answer:** In areas like Malaysia and Singapore, Nipah virus (NiV) is documented as being transmitted via interaction with infected livestock animals; these livestock animal are typically infected by interaction with infected bats or with partially consumed fruits that the bats will leave the virus in. In Bangladesh, outbreaks are typically associated with the consumption of infected date from date palms or from the sap collected from these trees. Similar to the Malaysian outbreaks, this is associated with infected bats partially consuming date/palm sap and leaving droppings in the receptacles used to collect date palm sap. In cases like the Malaysian outbreaks, the recommendation would be to conserve natural habitats so that farmland does not encroach, leading to fewer interactions between bats and humans, as well as the bats and livestock/their food source. For the Bangladesh outbreaks, prevention is largely associated with controlling the production, through means of safer collection methods, and consumption of date palm sap.
 
 ##  Avian Reovirus
 
-Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
-different transmission routes of ARV and explain which environmental factors favor its\
-transmission. What pathogen characteristics support one of these transmission routes?\
-Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
-its impact on the affected population. **(6 points)**
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. **(6 points)**
 
 **Answer:** Typically, Avian reoviruses (ARVs) are transmitted either horizontally through a fecal-oral route or vertically from hen-to-egg. In terms of horizontal transmission, this is largely impacted by poor upkeep and overcrowding of the chicken/turkeys habitat as it can quickly lead to an infected food or water source; this is compounded by the fact that the virus can survive for weeks outside of the host in the environment. For vertical transmission, one factor that could increase the rate of transmission would be a poor vaccination routine for the hens. The most significant characteristic this virus exhibits that allows for it to be effectively transmitted would be its ability to persist in the environment without a host in poorly maintained conditions, allowing the environment to become a reservoir for the pathogen and causing exponentially more infections. One instance of this in wild birds that is largely associated with an ARV infection is that of mass corvid die-offs caused by avian orthoreovirus (aORV). Infections of aORV are increasingly common in the winter months and will usually lead to mass die-off events where entire populations of crows can and have been decimated.
 
 ##  Langya henipavirus
 
-Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
-Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
-classified as a spillover and not a potential EID? **(6 points)**
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? **(6 points)**
 
 **Answer:** The Langya henipavirus (LayV) likely utilizes wild shrews in rural China as a reservoir host. The route of transmission from shrew-to-shrew is still nebulous and uncertain, but it is believed that humans acquire LayV in a spillover event caused by direct (or possibly indirect) contact with an infected animal or its bodily fluids, somewhat similar in transmission to that of Sin Nombre Virus. While there are reported cases of LayV in humans, it is only considered a spillover event and not an emerging infectious disease because there is no reported instance of transmission from human-to-human, meaning that we are dead end hosts.
