@@ -292,14 +292,46 @@ Nipah virus ecology varies across regions, resulting in distinct patterns of tra
 
 **Answer:** In areas like Malaysia and Singapore, Nipah virus (NiV) is documented as being transmitted via interaction with infected livestock animals; these livestock animal are typically infected by interaction with infected bats or with partially consumed fruits that the bats will leave the virus in. In Bangladesh, outbreaks are typically associated with the consumption of infected date from date palms or from the sap collected from these trees. Similar to the Malaysian outbreaks, this is associated with infected bats partially consuming date/palm sap and leaving droppings in the receptacles used to collect date palm sap. In cases like the Malaysian outbreaks, the recommendation would be to conserve natural habitats so that farmland does not encroach, leading to fewer interactions between bats and humans, as well as the bats and livestock/their food source. For the Bangladesh outbreaks, prevention is largely associated with controlling the production, through means of safer collection methods, and consumption of date palm sap.
 
-##  Avian Reovirus
+## Avian Reovirus
 
 Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. **(6 points)**
 
 **Answer:** Typically, Avian reoviruses (ARVs) are transmitted either horizontally through a fecal-oral route or vertically from hen-to-egg. In terms of horizontal transmission, this is largely impacted by poor upkeep and overcrowding of the chicken/turkeys habitat as it can quickly lead to an infected food or water source; this is compounded by the fact that the virus can survive for weeks outside of the host in the environment. For vertical transmission, one factor that could increase the rate of transmission would be a poor vaccination routine for the hens. The most significant characteristic this virus exhibits that allows for it to be effectively transmitted would be its ability to persist in the environment without a host in poorly maintained conditions, allowing the environment to become a reservoir for the pathogen and causing exponentially more infections. One instance of this in wild birds that is largely associated with an ARV infection is that of mass corvid die-offs caused by avian orthoreovirus (aORV). Infections of aORV are increasingly common in the winter months and will usually lead to mass die-off events where entire populations of crows can and have been decimated.
 
-##  Langya henipavirus
+## Langya henipavirus
 
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? **(6 points)**
 
 **Answer:** The Langya henipavirus (LayV) likely utilizes wild shrews in rural China as a reservoir host. The route of transmission from shrew-to-shrew is still nebulous and uncertain, but it is believed that humans acquire LayV in a spillover event caused by direct (or possibly indirect) contact with an infected animal or its bodily fluids, somewhat similar in transmission to that of Sin Nombre Virus. While there are reported cases of LayV in humans, it is only considered a spillover event and not an emerging infectious disease because there is no reported instance of transmission from human-to-human, meaning that we are dead end hosts.
+
+------------------------------------------------------------------------
+
+# 11/19/25
+
+## Prevalence Values by Category
+
+**Prevalence of B. procyonis in Adult Raccoons:** 52.2% (95% CI: 40.4% - 63.8%)
+
+**Prevalence of B. procyonis in Young Adult Raccoons:** 37.8% (95% CI: 23.4% - 54.1%)
+
+**Prevalence of B. procyonis in the Northern Region:** 28.6% (95% CI: 17.0% - 42.8%)
+
+**Prevalence of B. procyonis in the Central Region:** 64.3% (95% CI: 37.1 - 84.7%)
+
+**Prevalence of B. procyonis in the Southern Region:** 62.8% (95% CI: 47.7% - 75.9%)
+
+**Prevalence of B. procyonis in Female Raccoons:** 64.9% (95% CI: 48.6% - 78.6%)
+
+**Prevalence of B. procyonis in Male Raccoons:** 37.7% (95% CI: 26.7% - 50.0%)
+
+## Comparison of Prevalences by Category
+
+**Comparison of Prevalences by Region (using Fisher's exact test):** p = 0.0016
+
+**Comparison of Prevalences by Age (using Fisher's exact test):** p = 0.2206
+
+**Comparison of Prevalences by Sex (using Fisher's exact test):** p = 0.0087
+
+## Analysis
+
+In comparing the prevalences of B. procyonis across a variety of determinants, there are some aspects that reveal themselves that will help us to better understand the distribution and potential risks of infection for this pathogen. To start, the prevalences that were collected from each region were compared to one another. Notably, there was a significant decrease in the prevalence of infected hosts in the the Northern Region when contrasted against the Southern and Central Regions (*p* \< 0.05). Moreover, when there were infections, the average worm burden was markedly higher in the Southern and Central regions, with average worm burden being approximately 7 worms, when compared to the Northern Region, with an average worm burden of only 1 worm. This implies that there is some reasons that the disease is more readily able to proliferate in the other regions, potentially related to the changes in temperature during winter months as this data was collected from November to February. One possibility is that the raccoons in the Northern Region may be entering a state of torpor (similar to hibernation) during colder months in which the parasite would not be able to proliferate in the host. While there did not seem to be any evidence of there being significant difference between the prevalence of this disease based on age, there does seem to be a significant increase (*p* \< 0.05) in the prevalence in female raccoons when compared to their male counterparts. Interestingly, the female raccoons that were tested were also the ones that showed the higher worm burden on average compared to males; they also were the cases that had the most worms extracted during necropsy with some raccoons having upwards of 45 worms. This adds an interesting layer of complexity to this disease system as it is seemingly preferentially targeting, or at least proliferating more in, female raccoon hosts.
